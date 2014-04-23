@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedelliAskerlikTweeter", "BedelliAskerlikTweeter\BedelliAskerlikTweeter.csproj", "{C0BB0DDB-CF15-4A19-85E6-F9CDF3D8FAB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetSharp", "TweetSharp\TweetSharp.csproj", "{FD21580D-A123-43AA-BE73-23A120313390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0BB0DDB-CF15-4A19-85E6-F9CDF3D8FAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BB0DDB-CF15-4A19-85E6-F9CDF3D8FAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BB0DDB-CF15-4A19-85E6-F9CDF3D8FAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BB0DDB-CF15-4A19-85E6-F9CDF3D8FAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD21580D-A123-43AA-BE73-23A120313390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD21580D-A123-43AA-BE73-23A120313390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD21580D-A123-43AA-BE73-23A120313390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD21580D-A123-43AA-BE73-23A120313390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
